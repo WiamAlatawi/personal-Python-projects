@@ -20,7 +20,7 @@ while the color gradually darkens to create a soft gradient effect.
 ---
 
 ## 🖼️ Final Result
-![heart result](result.png)
+![heart result](results.png)
 
 ---
 
@@ -31,4 +31,5 @@ while the color gradually darkens to create a soft gradient effect.
 
 ## ✨ Purpose
 This project is part of my personal Python projects collection,  
+
 created to document my learning journey and experiment with fun visual programming ideas.

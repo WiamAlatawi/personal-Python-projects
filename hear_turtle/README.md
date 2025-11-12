@@ -25,7 +25,7 @@ while the color gradually darkens to create a soft gradient effect.
 ---
 
 ## 📂 Main File
-[`heart_lines.py`](Heart_turtle.py)
+[`heart_turtle.py`](Heart_turtle.py)
 
 ---
 
@@ -33,3 +33,4 @@ while the color gradually darkens to create a soft gradient effect.
 This project is part of my personal Python projects collection,  
 
 created to document my learning journey and experiment with fun visual programming ideas.
+
